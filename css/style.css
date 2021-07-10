@@ -1,0 +1,83 @@
+.logo{
+       min-height: 100px;
+       background-color: hotpink;
+       margin: 0px 0px 25px 0px;
+}
+.header{
+       min-height: 100px;
+       background-color: plum;
+       /*margin: 0px px px 0px;*/
+
+
+}
+
+.NavWrapper{
+       overflow: hidden;
+
+
+}
+
+.nav1{
+       min-height: 50px;
+       background-color: plum;
+       width: 23.75%;
+       float: left;
+       margin: 25px 25px 25px 0px;
+}
+
+.nav2{
+       min-height: 50px;
+       background-color: pink;
+       width: 23.75%;
+       float: left;
+       margin: 25px 25px 25px 0px;
+}
+
+.nav3{
+       min-height: 50px;
+       background-color: plum;
+       width: 23.75%;
+       float: left;
+       margin: 25px 25px 25px 0px;
+}
+
+.nav4{
+       min-height: 50px;
+       background-color: pink;
+       width: 23.75%;
+       float: left;
+       margin: 25px 0px 25px 0px;
+}
+.AboutWrapper{
+	overflow: hidden;
+}
+.about{
+	   min-height: 500px;
+       background-color: pink;
+       width: 49.1%;
+       float: left;
+       margin: 0px 25px 25px 0px;
+	
+}
+.quicklinks1{
+       min-height: 237.5px;
+       background-color: plum;
+       width: 49.2%;
+       float: left;
+       margin: 0px 0px 25px 0px;
+}
+.quicklinks2{
+	   min-height: 237.5px;
+       background-color: plum;
+       width: 49.2%;
+       float: left;
+       margin: 0px 0px 0px 0px;
+	
+}
+
+.footer{
+       min-height: 100px;
+       background-color: hotpink;
+
+
+}
